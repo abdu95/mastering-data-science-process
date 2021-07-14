@@ -10,7 +10,7 @@ There are 3 input files in **data** folder:
 
  
 
-`Objective:` explore data and find relationship between life expectancy, alcohol consumption and other data available in the provided files. Draw conclusions and write a short summary (circa 1 page) of the most important factors.
+`Objective:` explore data and find relationship between life expectancy, alcohol consumption and other data available in the provided files. Draw conclusions and write a short summary of the most important factors.
 
 `Output:`
 
