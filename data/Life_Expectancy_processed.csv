@@ -1,0 +1,195 @@
+GhoCode,GhoDisplay,PublishStateCode,PublishStateDisplay,YearCode,YearDisplay,RegionCode,RegionDisplay,WorldBankIncomeGroupGroupCode,WorldBankIncomeGroupDisplay,CountryCode,CountryDisplay,SexCode,SexDisplay,DisplayValue,Numeric
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LI,Low_income,AFG,Afghanistan,BTSX,Both sexes,60,60.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LMI,Lower_middle_income,ALB,Albania,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_UMI,Upper_middle_income,DZA,Algeria,BTSX,Both sexes,72,72.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,AND,Andorra,BTSX,Both sexes,83,83.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,AGO,Angola,BTSX,Both sexes,51,51.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_HI,High_income,ATG,Antigua and Barbuda,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,ARG,Argentina,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LMI,Lower_middle_income,ARM,Armenia,BTSX,Both sexes,71,71.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,AUS,Australia,BTSX,Both sexes,83,83.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,AUT,Austria,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LMI,Lower_middle_income,AZE,Azerbaijan,BTSX,Both sexes,72,72.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_HI,High_income,BHS,Bahamas,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_HI,High_income,BHR,Bahrain,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LI,Low_income,BGD,Bangladesh,BTSX,Both sexes,70,70.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_HI,High_income,BRB,Barbados,BTSX,Both sexes,78,78.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,BLR,Belarus,BTSX,Both sexes,72,72.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,BEL,Belgium,BTSX,Both sexes,80,80.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,BLZ,Belize,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,BEN,Benin,BTSX,Both sexes,59,59.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LMI,Lower_middle_income,BTN,Bhutan,BTSX,Both sexes,68,68.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,BOL,Bolivia (Plurinational State of),BTSX,Both sexes,68,68.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,BIH,Bosnia and Herzegovina,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_UMI,Upper_middle_income,BWA,Botswana,BTSX,Both sexes,62,62.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,BRA,Brazil,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,BRN,Brunei Darussalam,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,BGR,Bulgaria,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,BFA,Burkina Faso,BTSX,Both sexes,58,58.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,BDI,Burundi,BTSX,Both sexes,56,56.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,CPV,Cabo Verde,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LI,Low_income,KHM,Cambodia,BTSX,Both sexes,72,72.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,CMR,Cameroon,BTSX,Both sexes,56,56.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_HI,High_income,CAN,Canada,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,CAF,Central African Republic,BTSX,Both sexes,51,51.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,TCD,Chad,BTSX,Both sexes,51,51.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,CHL,Chile,BTSX,Both sexes,80,80.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,CHN,China,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,COL,Colombia,BTSX,Both sexes,79,79.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,COM,Comoros,BTSX,Both sexes,62,62.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,COG,Congo,BTSX,Both sexes,59,59.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,COK,Cook Islands,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,CRI,Costa Rica,BTSX,Both sexes,79,79.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,CIV,Côte d'Ivoire,BTSX,Both sexes,53,53.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,HRV,Croatia,BTSX,Both sexes,78,78.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,CUB,Cuba,BTSX,Both sexes,79,79.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,CYP,Cyprus,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,CZE,Czech Republic,BTSX,Both sexes,78,78.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LI,Low_income,PRK,Democratic People's Republic of Korea,BTSX,Both sexes,70,70.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,COD,Democratic Republic of the Congo,BTSX,Both sexes,52,52.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,DNK,Denmark,BTSX,Both sexes,80,80.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,DJI,Djibouti,BTSX,Both sexes,61,61.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,DMA,Dominica,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,DOM,Dominican Republic,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,ECU,Ecuador,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,EGY,Egypt,BTSX,Both sexes,71,71.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,SLV,El Salvador,BTSX,Both sexes,72,72.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_HI,High_income,GNQ,Equatorial Guinea,BTSX,Both sexes,55,55.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,ERI,Eritrea,BTSX,Both sexes,63,63.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,EST,Estonia,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,ETH,Ethiopia,BTSX,Both sexes,64,64.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_UMI,Upper_middle_income,FJI,Fiji,BTSX,Both sexes,69,69.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,FIN,Finland,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,FRA,France,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_UMI,Upper_middle_income,GAB,Gabon,BTSX,Both sexes,63,63.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,GMB,Gambia,BTSX,Both sexes,61,61.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LMI,Lower_middle_income,GEO,Georgia,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,DEU,Germany,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,GHA,Ghana,BTSX,Both sexes,62,62.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,GRC,Greece,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,GRD,Grenada,BTSX,Both sexes,73,73.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,GTM,Guatemala,BTSX,Both sexes,72,72.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,GIN,Guinea,BTSX,Both sexes,58,58.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,GNB,Guinea_Bissau,BTSX,Both sexes,54,54.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,GUY,Guyana,BTSX,Both sexes,63,63.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LI,Low_income,HTI,Haiti,BTSX,Both sexes,62,62.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,HND,Honduras,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,HUN,Hungary,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,ISL,Iceland,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LMI,Lower_middle_income,IND,India,BTSX,Both sexes,66,66.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LMI,Lower_middle_income,IDN,Indonesia,BTSX,Both sexes,71,71.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,IRN,Iran (Islamic Republic of),BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,IRQ,Iraq,BTSX,Both sexes,70,70.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,IRL,Ireland,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,ISR,Israel,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,ITA,Italy,BTSX,Both sexes,83,83.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,JAM,Jamaica,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,JPN,Japan,BTSX,Both sexes,84,84.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,JOR,Jordan,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,KAZ,Kazakhstan,BTSX,Both sexes,68,68.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,KEN,Kenya,BTSX,Both sexes,61,61.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,KIR,Kiribati,BTSX,Both sexes,66,66.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_HI,High_income,KWT,Kuwait,BTSX,Both sexes,78,78.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LI,Low_income,KGZ,Kyrgyzstan,BTSX,Both sexes,69,69.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LI,Low_income,LAO,Lao People's Democratic Republic,BTSX,Both sexes,66,66.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,LVA,Latvia,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_UMI,Upper_middle_income,LBN,Lebanon,BTSX,Both sexes,80,80.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,LSO,Lesotho,BTSX,Both sexes,50,50.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,LBR,Liberia,BTSX,Both sexes,62,62.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_UMI,Upper_middle_income,LBY,Libya,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,LTU,Lithuania,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,LUX,Luxembourg,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,MDG,Madagascar,BTSX,Both sexes,64,64.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,MWI,Malawi,BTSX,Both sexes,59,59.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_UMI,Upper_middle_income,MYS,Malaysia,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LMI,Lower_middle_income,MDV,Maldives,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,MLI,Mali,BTSX,Both sexes,57,57.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,MLT,Malta,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,MHL,Marshall Islands,BTSX,Both sexes,70,70.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,MRT,Mauritania,BTSX,Both sexes,63,63.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_UMI,Upper_middle_income,MUS,Mauritius,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,MEX,Mexico,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,FSM,Micronesia (Federated States of),BTSX,Both sexes,69,69.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,MCO,Monaco,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,MNG,Mongolia,BTSX,Both sexes,67,67.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,MNE,Montenegro,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,MAR,Morocco,BTSX,Both sexes,71,71.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,MOZ,Mozambique,BTSX,Both sexes,53,53.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LI,Low_income,MMR,Myanmar,BTSX,Both sexes,66,66.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_UMI,Upper_middle_income,NAM,Namibia,BTSX,Both sexes,67,67.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,NRU,Nauru,BTSX,Both sexes,79,79.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LI,Low_income,NPL,Nepal,BTSX,Both sexes,68,68.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,NLD,Netherlands,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,NZL,New Zealand,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,NIC,Nicaragua,BTSX,Both sexes,73,73.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,NER,Niger,BTSX,Both sexes,59,59.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,NGA,Nigeria,BTSX,Both sexes,54,54.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LI,Low_income,NIU,Niue,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,NOR,Norway,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_HI,High_income,OMN,Oman,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,PAK,Pakistan,BTSX,Both sexes,65,65.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_UMI,Upper_middle_income,PLW,Palau,BTSX,Both sexes,73,73.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,PAN,Panama,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,PNG,Papua New Guinea,BTSX,Both sexes,62,62.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_LMI,Lower_middle_income,PRY,Paraguay,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,PER,Peru,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,PHL,Philippines,BTSX,Both sexes,69,69.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,POL,Poland,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,PRT,Portugal,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_HI,High_income,QAT,Qatar,BTSX,Both sexes,79,79.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,KOR,Republic of Korea,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LMI,Lower_middle_income,MDA,Republic of Moldova,BTSX,Both sexes,71,71.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,ROU,Romania,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,RUS,Russian Federation,BTSX,Both sexes,69,69.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,RWA,Rwanda,BTSX,Both sexes,65,65.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,KNA,Saint Kitts and Nevis,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,LCA,Saint Lucia,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,VCT,Saint Vincent and the Grenadines,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,WSM,Samoa,BTSX,Both sexes,73,73.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,SMR,San Marino,BTSX,Both sexes,83,83.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,STP,Sao Tome and Principe,BTSX,Both sexes,67,67.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_HI,High_income,SAU,Saudi Arabia,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,SEN,Senegal,BTSX,Both sexes,64,64.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,SRB,Serbia,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_UMI,Upper_middle_income,SYC,Seychelles,BTSX,Both sexes,74,74.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,SLE,Sierra Leone,BTSX,Both sexes,46,46.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_HI,High_income,SGP,Singapore,BTSX,Both sexes,83,83.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,SVK,Slovakia,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,SVN,Slovenia,BTSX,Both sexes,80,80.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,SLB,Solomon Islands,BTSX,Both sexes,69,69.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LI,Low_income,SOM,Somalia,BTSX,Both sexes,53,53.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_UMI,Upper_middle_income,ZAF,South Africa,BTSX,Both sexes,59,59.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LI,Low_income,SSD,South Sudan,BTSX,Both sexes,55,55.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,ESP,Spain,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LMI,Lower_middle_income,LKA,Sri Lanka,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,SDN,Sudan,BTSX,Both sexes,63,63.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,SUR,Suriname,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LMI,Lower_middle_income,SWZ,Swaziland,BTSX,Both sexes,54,54.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,SWE,Sweden,BTSX,Both sexes,82,82.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,CHE,Switzerland,BTSX,Both sexes,83,83.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,SYR,Syrian Arab Republic,BTSX,Both sexes,68,68.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LI,Low_income,TJK,Tajikistan,BTSX,Both sexes,68,68.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LMI,Lower_middle_income,THA,Thailand,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,MKD,The former Yugoslav republic of Macedonia,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,SEAR,South_East Asia,WB_LMI,Lower_middle_income,TLS,Timor_Leste,BTSX,Both sexes,66,66.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,TGO,Togo,BTSX,Both sexes,58,58.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,TON,Tonga,BTSX,Both sexes,71,71.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_HI,High_income,TTO,Trinidad and Tobago,BTSX,Both sexes,70,70.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LMI,Lower_middle_income,TUN,Tunisia,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_UMI,Upper_middle_income,TUR,Turkey,BTSX,Both sexes,75,75.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LMI,Lower_middle_income,TKM,Turkmenistan,BTSX,Both sexes,63,63.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_UMI,Upper_middle_income,TUV,Tuvalu,BTSX,Both sexes,68,68.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,UGA,Uganda,BTSX,Both sexes,57,57.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LMI,Lower_middle_income,UKR,Ukraine,BTSX,Both sexes,71,71.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_HI,High_income,ARE,United Arab Emirates,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_HI,High_income,GBR,United Kingdom of Great Britain and Northern Ireland,BTSX,Both sexes,81,81.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,TZA,United Republic of Tanzania,BTSX,Both sexes,61,61.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_HI,High_income,USA,United States of America,BTSX,Both sexes,79,79.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,URY,Uruguay,BTSX,Both sexes,77,77.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EUR,Europe,WB_LI,Low_income,UZB,Uzbekistan,BTSX,Both sexes,69,69.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LMI,Lower_middle_income,VUT,Vanuatu,BTSX,Both sexes,72,72.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AMR,Americas,WB_UMI,Upper_middle_income,VEN,Venezuela (Bolivarian Republic of),BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,WPR,Western Pacific,WB_LI,Low_income,VNM,Viet Nam,BTSX,Both sexes,76,76.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,EMR,Eastern Mediterranean,WB_LI,Low_income,YEM,Yemen,BTSX,Both sexes,64,64.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,ZMB,Zambia,BTSX,Both sexes,57,57.0
+WHOSIS_000001,Life expectancy at birth (years),PUBLISHED,Published,2012,2012,AFR,Africa,WB_LI,Low_income,ZWE,Zimbabwe,BTSX,Both sexes,58,58.0
